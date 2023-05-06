@@ -24,7 +24,7 @@ Solved Example:
 "Back to the Streets" Section:
 -  [2 points] Part 1: Explain each line of code in English (either narrative or commented code).
 - [3 points] Implement your method on the entire `Addresses` data set. Explain how your code works line by line.
-[2 points] Part 2: Implement your method on the COMBINED address dataset : expand to match several more patterns (at least 12 total).
+- [2 points] Part 2: Implement your method on the COMBINED address dataset : expand to match several more patterns (at least 12 total).
 - [2 points] Additional Question 1: Present your result from part 2 by providing a table in descending order of popularity for the street name endings you found
 - [2 points] Additional Question 2: Present your result by using ggplot to a bar chart in descending order of popularity for the street name endings you found previously.
 - [1 points] Additional Question 3: Comment on any patterns you see

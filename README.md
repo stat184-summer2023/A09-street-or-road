@@ -4,6 +4,7 @@
 ## Instructions
 
 - Read the rubric carefully. There are questions in this activity that are not in the text book. 
+- Make sure to download the correct data set and save it INSIDE your repository.
 - Many tasks in the activity should have narrative text describing your observations; most steps also require code chunks and corresponding output.
 - Each student will submit the activity individually to Canvas, but students are encouraged to help one another complete the work.
 - Submit the completed R Notebook to Canvas before deadline.
